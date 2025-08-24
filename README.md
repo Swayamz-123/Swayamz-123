@@ -52,59 +52,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swayamz-123&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
----
-
-## 📂 Featured Projects
-
-### 🔹 [NextAuth Authentication System](https://nextauth-u361.vercel.app)
-> 🔐 **Complete Authentication Solution** built with Next.js, Mongoose, and Nodemailer
-> 
-> **Features:**
-> - 👤 User Registration & Login
-> - 📧 Email Verification System
-> - 🔄 Password Reset with Email Links
-> - 🛡️ Secure Session Management
-> 
-> **Tech Stack:** Next.js | Mongoose | Nodemailer | MongoDB
-> 
-> **Project Flow:**
-> 1. User signs up → Receives verification email
-> 2. User verifies email → Can login to system
-> 3. Forgot password → Reset link sent to email
-> 4. Secure authentication with session management
-
-### 🔹 [AQI Visualizer](https://github.com/Swayamz-123/aqi-forecast-app)
-> 🌍 **Air Quality Index Predictor** - Predicts and visualizes AQI using Python + JavaScript
-> 
-> Built for **ISRO Hackathon** (Ongoing Project)
-> 
-> **Features:**
-> - 📊 Real-time AQI data visualization
-> - 🔮 Predictive analytics for air quality
-> - 🗺️ Interactive maps and charts
-> 
-> **Tech Stack:** Python | JavaScript | Data Visualization Libraries
-
-### 🔹 [Real-Time Chat Application]
-> 💬 **Live Chat System** with real-time messaging capabilities
-> 
-> **Features:**
-> - 🚀 Real-time messaging
-> - 👥 Multi-user support
-> - 📱 Responsive design
-> 
-> **Tech Stack:** MERN Stack | Socket.io | WebSocket
-
----
-
-## 🏆 Achievements & Participation
-
-- 🚀 **ISRO Hackathon Participant** - Building AQI Visualization Tool
-- 🔧 **Full Stack Projects** - Multiple production-ready applications
-- 📚 **Continuous Learning** - Always exploring new technologies
-
----
-
 ## 🌐 Connect with Me
 
 <p align="center">
