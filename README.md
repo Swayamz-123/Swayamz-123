@@ -5,13 +5,6 @@
 <h3 align="center">🚀 A passionate Full Stack Web Developer from India</h3>
 
 ---
-
-## 👨‍💻 About Me
-
-- 🔭 I'm currently working on a **Real-Time Chat App**, an **AQI Visualizer for ISRO Hackathon**, and a **NextAuth Authentication System**
-- 🌱 Currently learning **Docker**, **Microservices**, and **Next.js App Router**
-- 💬 Ask me about **MERN Stack, React, Node.js, MongoDB, Authentication Systems**
-- 📫 How to reach me: `itzswayam890@gmail.com`
 - ⚡ Fun fact: I love building tools that help others and solve real-world problems.
 
 ---
@@ -70,7 +63,6 @@
 
 ## 💡 What I'm Working On
 
-- 🔐 Enhancing authentication systems with advanced security features
 - 📊 Developing data visualization tools for environmental monitoring
 - 🌐 Building scalable web applications with modern frameworks
 - 🚀 Learning cloud deployment and microservices architecture
