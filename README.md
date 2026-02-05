@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hey,%20I'm%20Swayam!👋&fontSize=40&fontAlignY=35&fontColor=ffffff" />
 
-<h3 align="center">🚀 A passionate Full Stack Web Developer from India</h3>
-
 ---
 - ⚡ Fun fact: I love building tools that help others and solve real-world problems.
 
@@ -61,13 +59,6 @@
 
 ---
 
-## 💡 What I'm Working On
-
-- 📊 Developing data visualization tools for environmental monitoring
-- 🌐 Building scalable web applications with modern frameworks
-- 🚀 Learning cloud deployment and microservices architecture
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer" />
