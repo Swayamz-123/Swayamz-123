@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=SWAYAM%20AGARWAL&fontSize=58&fontColor=ffffff&color=0:050816,35:301080,70:007cf0,100:00f5a0&stroke=00f5a0&strokeWidth=2&animation=fadeIn&fontAlignY=48" width="100%" />
+# <span style="color:#00F5A0;">SWAYAM AGARWAL</span>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=00F5A0&center=true&vCenter=true&width=850&height=55&lines=%3C+Full-Stack+Developer+%2F%3E;Building+web+apps+%E2%80%A2+APIs+%E2%80%A2+AI+systems;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;Exploring+AI%2FML%2C+systems+%26+cloud;Turning+ideas+into+shipped+software+%F0%9F%9A%80" alt="Developer typing animation" />
 
