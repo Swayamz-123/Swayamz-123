@@ -1,66 +1,79 @@
-<!-- GAMIFIED WEB DEVELOPER PROFILE -->
+<!-- DEVELOPER PROFILE -->
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=SWAYAM%20AGARWAL&fontSize=58&fontColor=ffffff&color=0:050816,35:301080,70:007cf0,100:00f5a0&stroke=00f5a0&strokeWidth=2&animation=fadeIn&fontAlignY=48" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=900&color=00F5A0&center=true&vCenter=true&width=850&height=60&lines=%3C+Hello%2C+World!+%2F%3E+%F0%9F%91%8B;const+developer+%3D+%7B+Swayam%3A+true+%7D;Building+interfaces+that+feel+alive+%E2%9A%A1;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+AI%2FML;Code.+Create.+Deploy.+Repeat.+%F0%9F%9A%80" alt="Animated developer introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=00F5A0&center=true&vCenter=true&width=850&height=55&lines=%3C+Full-Stack+Developer+%2F%3E;Building+web+apps+%E2%80%A2+APIs+%E2%80%A2+AI+systems;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;Exploring+AI%2FML%2C+systems+%26+cloud;Turning+ideas+into+shipped+software+%F0%9F%9A%80" alt="Developer typing animation" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Swayamz-123&style=for-the-badge&color=7F00FF&label=VISITORS" />
-<a href="https://github.com/Swayamz-123"><img src="https://img.shields.io/badge/STATUS-ONLINE-00F5A0?style=for-the-badge&logo=github&logoColor=black" /></a>
-<a href="mailto:itzswayam890@gmail.com"><img src="https://img.shields.io/badge/OPEN%20TO-BUILD%20%26%20COLLAB-00C6FF?style=for-the-badge&logo=rocket&logoColor=white" /></a>
+<a href="https://github.com/Swayamz-123"><img src="https://img.shields.io/badge/GITHUB-Swayamz--123-181717?style=for-the-badge&logo=github" /></a>
+<a href="https://www.linkedin.com/in/swayam-agarwal-2b941b323"><img src="https://img.shields.io/badge/LINKEDIN-Swayam%20Agarwal-0077B5?style=for-the-badge&logo=linkedin" /></a>
+<a href="mailto:itzswayam890@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Swayamz-123&style=for-the-badge&color=7F00FF&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
+
+## `$ whoami`
 
 <div align="center">
 
-## 🖥️ SYSTEM BOOT
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1800&pause=300&color=7F00FF&center=true&vCenter=true&width=700&height=35&lines=%5BBOOT%5D+Loading+Swayam.exe...;%5BOK%5D+Frontend+modules+loaded;%5BOK%5D+Backend+modules+loaded;%5BOK%5D+AI%2FML+modules+loaded;%5BOK%5D+Developer+mode+enabled;%5BSUCCESS%5D+System+ready+%E2%9C%93" alt="System boot animation" />
+<pre>
+┌─────────────────────────────────────────────────────────────┐
+│  SWAYAM AGARWAL                                             │
+│                                                             │
+│  🎓  CSE @ NIT Jamshedpur                                  │
+│  🌐  Full-Stack Developer                                  │
+│  🤖  AI / ML Explorer                                      │
+│  🧠  DSA & Problem Solving                                 │
+│  🔬  Research & Experimentation                             │
+│                                                             │
+│  I build products, APIs and ML-powered systems that solve   │
+│  practical problems — from idea → implementation → deploy.  │
+└─────────────────────────────────────────────────────────────┘
+</pre>
 
 </div>
 
 ---
 
-# 🎮 PLAYER CARD
+## ⚡ Engineering Focus
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="33%" align="center">
 
-### 👾 SWAYAM.EXE
+### 🌐 WEB
 
-<pre>
-PLAYER:        Swayam Agarwal
-CLASS:         Full-Stack Developer
-GUILD:         NIT Jamshedpur • CSE
-SPECIALITY:    Web Development + AI/ML
-PRIMARY:       C++ / JavaScript
-SECONDARY:     Python
-CURRENT_MODE:  BUILDING
-</pre>
+Building modern interfaces and full-stack applications.
 
-> ⚡ I like turning ideas into <b>interactive, useful and scalable software</b>.
+**React · Next.js · Tailwind**  
+**Node.js · Express · MongoDB**
 
 </td>
+<td width="33%" align="center">
 
-<td width="40%" valign="top">
+### 🧠 PROBLEM SOLVING
 
-### 🎯 XP PROGRESS
+Deepening algorithmic thinking through DSA and problem solving.
 
-<pre>
-WEB DEV       █████████░  90%
-BACKEND       ████████░░  80%
-DSA           ████████░░  80%
-AI / ML       ███████░░░  70%
-DEVOPS        ██████░░░░  60%
-</pre>
+**C++ · Graphs · DP · Algorithms**
 
-<b>LEVEL: ∞ LEARNING</b>
+</td>
+<td width="33%" align="center">
+
+### 🤖 AI / ML
+
+Exploring computer vision and deep-learning systems.
+
+**Python · PyTorch · OpenCV**  
+**Classification · Segmentation · Optimization**
 
 </td>
 </tr>
@@ -68,65 +81,184 @@ DEVOPS        ██████░░░░  60%
 
 ---
 
-# 🌐 WEB DEVELOPER LOADOUT
+## 🧰 Tech Stack
 
 <div align="center">
 
-### ⚛️ FRONTEND
+### Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark" />
 
 <br/><br/>
 
-### ⚙️ BACKEND + DATABASE
+### Backend & Data
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis&theme=dark" />
 
 <br/><br/>
 
-### 🤖 AI / ML
+### Languages & AI/ML
 <img src="https://skillicons.dev/icons?i=cpp,python,pytorch,opencv&theme=dark" />
 
 <br/><br/>
 
-### ☁️ DEPLOYMENT ARSENAL
+### Cloud, DevOps & Tools
 <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,vscode&theme=dark" />
 
 </div>
 
 ---
 
-# 🧬 SKILL TREE
+## 🚀 Things I Build
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🖥️ Full-Stack Products
+
+Authentication • REST APIs • Databases •  
+Real-time communication • Responsive UI •  
+Cloud deployment
+
+</td>
+<td width="50%">
+
+### 🤖 Intelligent Applications
+
+Computer vision • Deep learning •  
+Image classification • Segmentation •  
+Model optimization • AI integrations
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔧 Developer Systems
+
+Clean architecture • API design •  
+Git workflows • Docker • CI/CD •  
+Scalable backend services
+
+</td>
+<td width="50%">
+
+### 🧪 Experimental Work
+
+Research workflows • Hyperparameter optimization •  
+Model evaluation • Reproducible experiments
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## ⭐ Featured Builds
+
+<table>
+<tr>
+<td width="50%">
+
+### 🍴 FoodieHub
+
+A recipe discovery experience focused on a polished, interactive frontend.
+
+**Stack:** React · JavaScript · CSS
+
+<a href="https://github.com/Swayamz-123/FoodieHub">View Repository →</a>
+
+</td>
+<td width="50%">
+
+### 🌐 College Web Development
+
+Web development work for the NIT Jamshedpur ecosystem.
+
+**Focus:** React · Web UI · Full-Stack Development
+
+<a href="https://github.com/Swayamz-123/scse">Explore Repository →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🍃 Food Surplus Distribution
+
+A web-based system designed around connecting surplus food with distribution needs.
+
+**Focus:** Full-Stack Web Development
+
+<a href="https://github.com/Swayamz-123/Food-Surplus-Distribution-System">View Repository →</a>
+
+</td>
+<td width="50%">
+
+### 🧠 AI / ML Experiments
+
+Deep-learning and computer-vision work involving training, evaluation and optimization.
+
+**Focus:** Python · PyTorch · OpenCV
+
+<a href="https://github.com/Swayamz-123">Explore Projects →</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧬 Developer Architecture
 
 <div align="center">
 
 <pre>
-                    ┌──────────────────┐
-                    │   👑 DEVELOPER   │
-                    └────────┬─────────┘
-                             │
-             ┌───────────────┼───────────────┐
-             ▼               ▼               ▼
-        ┌─────────┐     ┌─────────┐     ┌─────────┐
-        │ ⚛️ WEB  │     │ 🤖 AI   │     │ ⚙️ OPS  │
-        └────┬────┘     └────┬────┘     └────┬────┘
-             │               │               │
-       React / Next       PyTorch          Docker
-       Node / Express     OpenCV           AWS
-       MongoDB            ML Research      CI/CD
-             │               │               │
-             └───────────────┼───────────────┘
-                             ▼
-                    🚀 SHIP SOMETHING
+                         ┌─────────────────┐
+                         │      IDEAS      │
+                         └────────┬────────┘
+                                  │
+                                  ▼
+                     ┌───────────────────────┐
+                     │   React / Next.js     │
+                     │      Frontend         │
+                     └───────────┬───────────┘
+                                 │
+                                 ▼
+                     ┌───────────────────────┐
+                     │ Node.js / Express     │
+                     │      Backend          │
+                     └───────────┬───────────┘
+                                 │
+                      ┌──────────┴──────────┐
+                      ▼                     ▼
+               ┌─────────────┐       ┌─────────────┐
+               │   MongoDB   │       │ Redis / API │
+               │    Data     │       │   Services  │
+               └─────────────┘       └─────────────┘
+                                 │
+                                 ▼
+                     ┌───────────────────────┐
+                     │ Docker • CI/CD • AWS  │
+                     │      Deployment       │
+                     └───────────────────────┘
 </pre>
 
 </div>
 
 ---
 
-# 🏆 ACHIEVEMENT UNLOCKED
+## 📊 GitHub Dashboard
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Swayamz-123&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" alt="GitHub achievements" />
+<img src="https://github-readme-stats.vercel.app/api?username=Swayamz-123&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=transparent&bg_color=050816&title_color=00F5A0&icon_color=7F00FF&text_color=E6EDF3" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swayamz-123&layout=compact&langs_count=8&hide_border=true&theme=transparent&bg_color=050816&title_color=00F5A0&text_color=E6EDF3" height="180" />
 
 <br/><br/>
 
@@ -136,85 +268,56 @@ DEVOPS        ██████░░░░  60%
 
 ---
 
-# 📡 CONTRIBUTION MATRIX
+## 🟩 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Swayamz-123&bg_color=050816&color=00F5A0&line=7F00FF&point=FFFFFF&area_color=301080&area=true&hide_border=true&custom_title=SWAYAM%20CONTRIBUTION%20MATRIX" width="100%" alt="Contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Swayamz-123&bg_color=050816&color=00F5A0&line=7F00FF&point=FFFFFF&area_color=301080&area=true&hide_border=true&custom_title=CODING%20ACTIVITY" width="100%" />
 
 </div>
 
 ---
 
-# 📊 DEVELOPER TELEMETRY
+## 🏆 Developer Achievements
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Swayamz-123&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=transparent&bg_color=050816&title_color=00F5A0&icon_color=7F00FF&text_color=E6EDF3" height="190" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swayamz-123&layout=compact&langs_count=8&hide_border=true&theme=transparent&bg_color=050816&title_color=00F5A0&text_color=E6EDF3" height="190" />
+<img src="https://github-profile-trophy.vercel.app/?username=Swayamz-123&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies" />
 
 </div>
 
 ---
 
-# 🧩 CURRENTLY BUILDING
+## 🔭 Currently Exploring
 
 <div align="center">
 
-| 🔮 MODULE | ⚡ FOCUS |
-|:---:|:---|
-| 🌐 **Web** | Modern full-stack applications |
-| 🧠 **DSA** | Graphs • DP • Problem Solving |
-| 🤖 **AI** | Computer Vision • Deep Learning |
-| 🔬 **Research** | ML experiments & optimization |
-| ☁️ **Cloud** | Docker • CI/CD • Deployment |
-
-</div>
-
----
-
-# 🎒 DEVELOPER INVENTORY
-
-<div align="center">
-
-| Rarity | Item | Power |
-|:---:|:---|:---:|
-| 🟣 EPIC | React + Next.js | ⚡⚡⚡⚡⚡ |
-| 🟣 EPIC | Node.js + Express | ⚡⚡⚡⚡⚡ |
-| 🔵 RARE | MongoDB + Redis | ⚡⚡⚡⚡ |
-| 🔵 RARE | C++ + DSA | ⚡⚡⚡⚡ |
-| 🟢 UNCOMMON | Python + PyTorch | ⚡⚡⚡ |
-| 🟢 UNCOMMON | Docker + AWS | ⚡⚡⚡ |
-
-</div>
-
----
-
-# 🔥 THE DEVELOPER LOOP
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1800&pause=500&color=00F5A0&center=true&vCenter=true&width=700&height=45&lines=LEARN+%F0%9F%A7%A0;%E2%86%93;BUILD+%F0%9F%9B%A0%EF%B8%8F;%E2%86%93;BREAK+%F0%9F%90%9B;%E2%86%93;DEBUG+%F0%9F%94%A7;%E2%86%93;SHIP+%F0%9F%9A%80;%E2%86%93;REPEAT+%F0%9F%94%81" />
-
-</div>
-
----
-
-# 🌌 CONNECT TO THE DEVELOPER
-
-<div align="center">
-
-<a href="mailto:itzswayam890@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%A7%20EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/swayam-agarwal-2b941b323"><img src="https://img.shields.io/badge/%F0%9F%92%BC%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Swayamz-123"><img src="https://img.shields.io/badge/%F0%9F%92%BB%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+`Redis` • `Docker` • `CI/CD` • `System Design` • `Advanced DSA` • `Deep Learning`
 
 <br/><br/>
 
-<b>⚡ Want to build something cool? Let's connect.</b>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=700&color=00C6FF&center=true&vCenter=true&width=750&height=40&lines=Learn+%E2%86%92+Build+%E2%86%92+Debug+%E2%86%92+Ship;Good+code+solves+problems.+Great+code+solves+them+cleanly.;Always+building.+Always+learning." alt="Developer philosophy animation" />
+
+</div>
+
+---
+
+## 🤝 Let's Build Something
+
+<div align="center">
+
+<a href="mailto:itzswayam890@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/swayam-agarwal-2b941b323"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Swayamz-123"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+<b>⚡ Open to interesting problems, ambitious builds and good engineering conversations.</b>
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:00F5A0,50:00C6FF,100:7F00FF&animation=fadeIn" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00F5A0,50:00C6FF,100:7F00FF&animation=fadeIn" width="100%" />
+
 </div>
