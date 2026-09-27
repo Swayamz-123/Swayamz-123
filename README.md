@@ -213,45 +213,6 @@ Deep-learning and computer-vision work involving training, evaluation and optimi
 
 ---
 
-## 🧬 Developer Architecture
-
-<div align="center">
-
-<pre>
-                         ┌─────────────────┐
-                         │      IDEAS      │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                     ┌───────────────────────┐
-                     │   React / Next.js     │
-                     │      Frontend         │
-                     └───────────┬───────────┘
-                                 │
-                                 ▼
-                     ┌───────────────────────┐
-                     │ Node.js / Express     │
-                     │      Backend          │
-                     └───────────┬───────────┘
-                                 │
-                      ┌──────────┴──────────┐
-                      ▼                     ▼
-               ┌─────────────┐       ┌─────────────┐
-               │   MongoDB   │       │ Redis / API │
-               │    Data     │       │   Services  │
-               └─────────────┘       └─────────────┘
-                                 │
-                                 ▼
-                     ┌───────────────────────┐
-                     │ Docker • CI/CD • AWS  │
-                     │      Deployment       │
-                     └───────────────────────┘
-</pre>
-
-</div>
-
----
-
 ## 📊 GitHub Dashboard
 
 <div align="center">
